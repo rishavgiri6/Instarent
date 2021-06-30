@@ -1,9 +1,10 @@
-# Ecommerce
- web application Instarent using Angular | Node.js | Express.js | MongoDB   (MEAN Stack) by Rishav Giri
-
+# The Instarent E-Platform
+ An e-commerce (m)web application crafted using MEAN stack(Angular | Node.js | Express.js | MongoDB) 
+ Author: Rishav Giri
+ 
 ## Objective
-* The goal is to build a Ecommerce web application where users can buy and sell products online.
-* The project was developed as Full Stack Web app using technologies such as Angular | Node.js | Express.js | MongoDB (MEAN Stack)
+* The goal is to build a wholesome platform wherein people moving to temporary locations/ jobseekers or students in new cities/ house shifters can rent everyday convenience items, furniture, kitchenware and other durable goods to help ease into the new surroundings. 
+* Apart from CRUD functionality support, the future integrations for this platform includes a community portal for direct buyer-seller negotiation, insurance providence and time-based renting recommendations. 
 
 ## System Design
 ### Architecture
